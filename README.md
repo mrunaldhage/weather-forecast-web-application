@@ -27,7 +27,7 @@ A responsive weather forecast web application built using **HTML, CSS, and JavaS
 4. Open `index.html` in a browser
 
 ## Live Demo
-Coming soon 🚀
+https://mrunaldhage.github.io/weather-forcast-web-application/
 
 ## Screenshots
 Screenshots will be added after deployment.
@@ -35,6 +35,8 @@ Screenshots will be added after deployment.
 ## Acknowledgement
 This project was built for learning purposes.
 
-⚠️ Note: API key is required to run this project locally.
-For security reasons, the key is not included in the repository.
+⚠️ Note: This project uses the OpenWeather API.
+To protect the API key, it is not included in the deployed version.
+Please run locally with your own API key to see live data.
+
 
