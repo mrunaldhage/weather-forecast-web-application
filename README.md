@@ -29,8 +29,13 @@ A responsive weather forecast web application built using **HTML, CSS, and JavaS
 ## Live Demo
 https://mrunaldhage.github.io/weather-forcast-web-application/
 
-## Screenshots
-Screenshots will be added after deployment.
+## 📷 Screenshots
+
+### Weather Overview
+![Weather Overview](screenshots/screenshot1.png)
+
+### Today's Highlights
+![Today's Highlights](screenshots/screenshot2.png)
 
 ## Acknowledgement
 This project was built for learning purposes.
