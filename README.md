@@ -34,3 +34,7 @@ Screenshots will be added after deployment.
 
 ## Acknowledgement
 This project was built for learning purposes.
+
+⚠️ Note: API key is required to run this project locally.
+For security reasons, the key is not included in the repository.
+
